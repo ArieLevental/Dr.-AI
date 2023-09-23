@@ -20,7 +20,10 @@
 </div>
 
 > React Admin Dashboard made with [MUI's](https://mui.com/) components, [React](https://reactjs.org/) and of course [Next.js](https://github.com/vercel/next.js) to boost your app  development process!
-
+>
+> 
+> DEMO: [CLICK HERE](https://dr-ai.up.railway.app/auth/login)
+> 
 ---
 
 ## 📖 Table of Contents
