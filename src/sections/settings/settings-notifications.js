@@ -182,7 +182,7 @@ export const SettingsNotifications = (props) => {
             <br />
             Outcome:
             <Divider sx={{ width: "22%" }} />
-            Mr. Smith's chest pain resolved after the PCI procedure, and subsequent ECGs showed
+            Mr. Smith&apos;s chest pain resolved after the PCI procedure, and subsequent ECGs showed
             resolution of ST-segment elevation. His troponin levels began to trend downward. His
             general weakness improved with adequate rest and cardiac rehabilitation. He was educated
             on lifestyle modifications, including dietary changes, regular exercise, and smoking
@@ -211,13 +211,14 @@ export const SettingsNotifications = (props) => {
             <br />
             Follow-up:
             <Divider sx={{ width: "22%" }} />
-            Mr. Smith's condition will be closely monitored by his cardiologist, and adjustments to
-            his medication regimen will be made as needed to optimize his cardiovascular health.
+            Mr. Smith&apos;s condition will be closely monitored by his cardiologist, and
+            adjustments to his medication regimen will be made as needed to optimize his
+            cardiovascular health.
             <br />
             <br />
             <br />
             <br />
-            Provider's Signature: __________________________
+            Provider&apos;s Signature: __________________________
             <br />
             Date of Discharge: 08/09/2023
           </Typography>
